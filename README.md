@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+%26+Cloud+Computing+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner)](https://git.io/typing-svg)
 
 </div>
 
