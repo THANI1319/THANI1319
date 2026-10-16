@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16)" width="100%" alt="Header Banner"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
-    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=780&lines=Hey+there%2C+I+am+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+at+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=780&lines=Hey+there%2C+I+am+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+at+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner)" alt="Typing SVG" />
-  </a>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+%26+Cloud+Computing+Learner)](https://git.io/typing-svg)
+
 </div>
 
-<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%">
+---
 
 ## 👨‍💻 About Me
 
@@ -176,22 +174,12 @@
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/thanigaivel-v](https://www.linkedin.com/in/thanigaivel-v)">
-  <img src="[https://img.shields.io/badge/LinkedIn-THANIGAIVEL%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-THANIGAIVEL%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn"/>
-</a>
-<a href="mailto:thanigaivelt096@gmail.com">
-  <img src="[https://img.shields.io/badge/Gmail-thanigaivelt096@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Gmail-thanigaivelt096@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)" alt="Gmail"/>
-</a>
-<a href="[https://github.com/THANI1319](https://github.com/THANI1319)">
-  <img src="[https://img.shields.io/badge/GitHub-THANI1319-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-THANI1319-181717?style=for-the-badge&logo=github&logoColor=white)" alt="GitHub"/>
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-THANIGAIVEL%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanigaivel-v)
+[![Gmail](https://img.shields.io/badge/Gmail-thanigaivelt096@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thanigaivelt096@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-THANI1319-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THANI1319)
 
-<br/><br/>
-
-<img src="[https://komarev.com/ghpvc/?username=THANI1319&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS](https://komarev.com/ghpvc/?username=THANI1319&color=70a5fd&style=for-the-badge&label=PROFILE+VIEWS)" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=THANI1319&color=70a5fd&style=flat-square&label=Profile+Views)
 
 </div>
 
-<div align="center">
-  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)" width="100%" alt="Footer Banner"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
