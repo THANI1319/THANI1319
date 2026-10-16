@@ -1,19 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=THANIGAIVEL%20V&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=IT%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<!-- 🌊 Animated Waving Header -->
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16)" width="100%"/>
 
+<!-- ⌨️ Animated Typing Text -->
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I%27m+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+%26+Cloud+Computing+Learner)](https://git.io/typing-svg)
-
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+Cloud+%7C+Docker+Enthusiast;Exploring+Cybersecurity+and+DevOps+%F0%9F%9A%80](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hey+there%2C+I'm+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+Cloud+%7C+Docker+Enthusiast;Exploring+Cybersecurity+and+DevOps+%F0%9F%9A%80)" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<!-- 🌈 Animated Neon Divider -->
+<img src="[https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)" width="100%">
 
-## 👨‍💻 About Me
+## <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="28px"> About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)"/>
 
-```python
-class ThanigaivelV:
+<pre>
+class <b>ThanigaivelV</b>:
     name       = "Thanigaivel V"
     location   = "6/16 Chetpet, Chennai - 31, Tamil Nadu 🇮🇳"
     degree     = "B.Tech – Information Technology @ Anna University (2023–Present)"
@@ -40,93 +43,70 @@ class ThanigaivelV:
 
     def motto(self):
         return "Learn. Build. Adapt. Repeat. 🚀"
-```
+</pre>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**Core Concepts**
-
-![OOP](https://img.shields.io/badge/OOPS-FF6F00?style=flat-square&logo=buffer&logoColor=white)
-![DSA](https://img.shields.io/badge/Data%20Structures-6DB33F?style=flat-square&logo=databricks&logoColor=white)
-
-**Cloud & Virtualization**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white)
-
-**Databases**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Operating Systems & Tools**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
-![MS Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![MS Word](https://img.shields.io/badge/Word-2B579A?style=flat-square&logo=microsoftword&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=flat-square&logo=microsoftpowerpoint&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
+  
+  <!-- Modern Big Skill Icons -->
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=py,c,html,css,docker,linux,mongodb,figma,git,github,vscode,windows&perline=6" />
+    </a>
+  </p>
 
-<a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THANI1319&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
-</a>
-<a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANI1319&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
-</a>
+  <!-- Detailed Badges -->
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
+  ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=THANI1319&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
-
-</div>
-
----
-
-## 📈 Activity Graph
+## 📊 GitHub Analytics & Streak
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANI1319&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true"/>
-
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=THANI1319&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=THANI1319&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 </div>
 
----
-
-## 🏆 Trophies
+<br/>
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=THANI1319&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
-
+  <img src="https://streak-stats.demolab.com?user=THANI1319&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 💼 Academic Project
+## 🏆 GitHub Trophies & Activity
 
-<details>
-<summary>🖥️ Performance Analysis of Virtualization Techniques in Cloud Computing</summary>
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=THANI1319&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=THANI1319&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="95%"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 Featured Academic Project
+
+<details open>
+<summary><b>🖥️ Performance Analysis of Virtualization Techniques in Cloud Computing</b> (Click to Collapse/Expand)</summary>
+<br/>
 
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -137,9 +117,7 @@ class ThanigaivelV:
 
 </details>
 
----
-
-## 🚀 Featured Projects
+<br/>
 
 <div align="center">
 
@@ -149,7 +127,7 @@ class ThanigaivelV:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏅 Achievements & Certifications
 
@@ -157,14 +135,14 @@ class ThanigaivelV:
 
 | 🏆 | Achievement | Details |
 |----|-------------|---------|
-| 🏭 | Embedded Systems Training & Internship | MSME Certified – Hardware & Embedded domain |
-| 🔐 | Introduction to Cyber Security | Arjun Vision Internship Certificate |
-| 🍃 | MongoDB Basics | Completed at VEI Offline Institute |
-| 🎨 | UI/UX Design Fundamentals | Completed at VEI Offline Institute |
+| 🏭 | **Embedded Systems Training & Internship** | MSME Certified – Hardware & Embedded domain |
+| 🔐 | **Introduction to Cyber Security** | Arjun Vision Internship Certificate |
+| 🍃 | **MongoDB Basics** | Completed at VEI Offline Institute |
+| 🎨 | **UI/UX Design Fundamentals** | Completed at VEI Offline Institute |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🎓 Education
 
@@ -172,35 +150,44 @@ class ThanigaivelV:
 
 | 🎓 Degree | 🏫 Institution | 📅 Year | 📈 Score |
 |-----------|---------------|---------|---------|
-| B.Tech – Information Technology | Anna University, Chennai | 2023 – Present | CGPA: 7.95 |
-| HSC (Class 12) | MCC HR Sec School | 2023 | 70.66% |
+| **B.Tech – Information Technology** | Anna University, Chennai | 2023 – Present | CGPA: 7.95 |
+| **HSC (Class 12)** | MCC HR Sec School | 2023 | 70.66% |
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧠 Currently Learning
 
-```text
+<pre>
 🔐 Cybersecurity        → Ethical Hacking, Network Security, SOC Basics
 🍃 MongoDB              → NoSQL, Aggregation, Atlas Cloud
 🎨 UI/UX Design         → Wireframing, Prototyping, Figma Basics
-⚙️  Embedded Systems    → Microcontrollers, MSME-level Hardware Programming
-☁️  Cloud Computing     → Virtualization, Docker, Container Orchestration
-```
+⚙️ Embedded Systems     → Microcontrollers, MSME-level Hardware Programming
+☁️ Cloud Computing      → Virtualization, Docker, Container Orchestration
+</pre>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📬 Connect With Me
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-THANIGAIVEL%20V-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanigaivel-v)
-[![Gmail](https://img.shields.io/badge/Gmail-thanigaivelt096@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thanigaivelt096@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-THANI1319-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/THANI1319)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-THANIGAIVEL%20V-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thanigaivel-v)
+[![Gmail](https://img.shields.io/badge/Gmail-thanigaivelt096@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thanigaivelt096@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-THANI1319-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/THANI1319)
 
-![Profile Views](https://komarev.com/ghpvc/?username=THANI1319&color=70a5fd&style=flat-square&label=Profile+Views)
+<br/>
+
+<!-- 👀 Animated Retro Visitor Counter -->
+<h3>👀 Profile Visitors 👀</h3>
+<img src="[https://count.getloli.com/get/@THANI1319?theme=rule34](https://count.getloli.com/get/@THANI1319?theme=rule34)" alt="THANI1319 Views" />
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=THANI1319&color=70a5fd&style=for-the-badge&label=TOTAL+VIEWS)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
+<!-- 🌊 Animated Waving Footer -->
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)" width="100%"/>
