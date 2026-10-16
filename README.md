@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=THANIGAIVEL%20V&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=IT%20Student%20%7C%20Python%20%26%20C%20Developer%20%7C%20Cloud%20%26%20Cybersecurity%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
 
 <div align="center">
 
@@ -83,10 +83,10 @@ class ThanigaivelV:
 <div align="center">
 
 <a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THANI1319&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THANI1319&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;icon_color=bf91f3&amp;text_color=c9d1d9&amp;border_radius=10"/>
 </a>
 <a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANI1319&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANI1319&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=70a5fd&amp;text_color=c9d1d9&amp;langs_count=8&amp;border_radius=10"/>
 </a>
 
 </div>
@@ -97,7 +97,7 @@ class ThanigaivelV:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=THANI1319&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=THANI1319&amp;theme=tokyonight-duo&amp;hide_border=true&amp;background=0D1117&amp;ring=70A5FD&amp;fire=BF91F3&amp;currStreakLabel=70A5FD&amp;sideLabels=38BDAE&amp;dates=8B949E&amp;currStreakNum=C9D1D9&amp;sideNums=C9D1D9&amp;stroke=0D1117&amp;border_radius=10"/>
 
 </div>
 
@@ -107,7 +107,7 @@ class ThanigaivelV:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANI1319&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANI1319&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=70a5fd&amp;line=bf91f3&amp;point=38bdae&amp;area=true&amp;hide_border=true"/>
 
 </div>
 
@@ -117,7 +117,7 @@ class ThanigaivelV:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=THANI1319&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=THANI1319&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;row=1&amp;column=7&amp;margin-w=4"/>
 
 </div>
 
@@ -203,4 +203,4 @@ class ThanigaivelV:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer&amp;animation=twinkling" width="100%"/>
