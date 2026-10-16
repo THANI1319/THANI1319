@@ -1,44 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
+<div align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=THANIGAIVEL%20V&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=IT%20Student%20%7C%20Python%20and%20C%20Developer%20%7C%20Cloud%20and%20Cybersecurity%20Enthusiast&descAlignY=62&descSize=16)" width="100%"/>
+</div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Thanigaivel+V+%F0%9F%91%8B;B.Tech+IT+Student+%40+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner)](https://git.io/typing-svg)
-
+  <a href="[https://git.io/typing-svg](https://git.io/typing-svg)">
+    <img src="[https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I+am+Thanigaivel+V;B.Tech+IT+Student+at+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I+am+Thanigaivel+V;B.Tech+IT+Student+at+Anna+University;Python+%7C+C+%7C+HTML+%7C+CSS+Developer;Cybersecurity+and+Cloud+Computing+Learner)" alt="Typing SVG" />
+  </a>
 </div>
 
 ---
+
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="360" src="[https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)"/>
 
-```python
-class ThanigaivelV:
-    name       = "Thanigaivel V"
-    location   = "6/16 Chetpet, Chennai - 31, Tamil Nadu 🇮🇳"
-    degree     = "B.Tech – IT @ Anna University (2023–Present)"
-    cgpa       = 7.95
+    class ThanigaivelV:
+        name       = "Thanigaivel V"
+        location   = "6/16 Chetpet, Chennai - 31, Tamil Nadu 🇮🇳"
+        degree     = "B.Tech – IT @ Anna University (2023–Present)"
+        cgpa       = 7.95
 
-    stack = [
-        "Python", "C", "HTML", "CSS",
-        "OOPS", "Data Structures"
-    ]
+        stack = [
+            "Python", "C", "HTML", "CSS",
+            "OOPS", "Data Structures"
+        ]
 
-    tools = [
-        "VMware Workstation", "VirtualBox",
-        "Docker", "Linux", "MS Office"
-    ]
+        tools = [
+            "VMware Workstation", "VirtualBox",
+            "Docker", "Linux", "MS Office"
+        ]
 
-    currently_learning = [
-        "MongoDB", "UI/UX Design",
-        "Cybersecurity", "Embedded Systems"
-    ]
+        currently_learning = [
+            "MongoDB", "UI/UX Design",
+            "Cybersecurity", "Embedded Systems"
+        ]
 
-    languages_known = ["Tamil", "English"]
+        languages_known = ["Tamil", "English"]
 
-    fun_fact = "I compared VMs vs Containers early on 🐳"
+        fun_fact = "I compared VMs vs Containers before most people know what Docker is 🐳"
 
-    def motto(self):
-        return "Learn. Build. Adapt. Repeat. 🚀"
+        def motto(self):
+            return "Learn. Build. Adapt. Repeat. 🚀"
+
+<br clear="right"/>
+
+---
+
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -76,14 +83,12 @@ class ThanigaivelV:
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=THANI1319&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
-</a>
-<a href="https://github.com/THANI1319">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=THANI1319&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
-</a>
-
+  <a href="https://github.com/THANI1319">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=THANI1319&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  </a>
+  <a href="https://github.com/THANI1319">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=THANI1319&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  </a>
 </div>
 
 ---
@@ -91,9 +96,7 @@ class ThanigaivelV:
 ## 🔥 GitHub Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=THANI1319&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
-
+  <img src="https://streak-stats.demolab.com?user=THANI1319&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 ---
@@ -101,9 +104,7 @@ class ThanigaivelV:
 ## 📈 Activity Graph
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=THANI1319&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=THANI1319&theme=tokyonight" width="95%"/>
 </div>
 
 ---
@@ -111,17 +112,16 @@ class ThanigaivelV:
 ## 🏆 Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=THANI1319&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
-
+  <img src="https://github-trophies.vercel.app/?username=THANI1319&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" width="95%"/>
 </div>
 
 ---
 
 ## 💼 Academic Project
 
-<details>
-<summary>🖥️ Performance Analysis of Virtualization Techniques in Cloud Computing</summary>
+<details open>
+<summary><b>🖥️ Performance Analysis of Virtualization Techniques in Cloud Computing</b></summary>
+<br/>
 
 > ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white) ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
@@ -176,13 +176,11 @@ class ThanigaivelV:
 
 ## 🧠 Currently Learning
 
-```text
-🔐 Cybersecurity        → Ethical Hacking, Network Security, SOC Basics
-🍃 MongoDB              → NoSQL, Aggregation, Atlas Cloud
-🎨 UI/UX Design         → Wireframing, Prototyping, Figma Basics
-⚙️  Embedded Systems    → Microcontrollers, MSME-level Hardware Programming
-☁️  Cloud Computing     → Virtualization, Docker, Container Orchestration
-```
+    🔐 Cybersecurity        → Ethical Hacking, Network Security, SOC Basics
+    🍃 MongoDB              → NoSQL, Aggregation, Atlas Cloud
+    🎨 UI/UX Design         → Wireframing, Prototyping, Figma Basics
+    ⚙️ Embedded Systems     → Microcontrollers, MSME-level Hardware Programming
+    ☁️ Cloud Computing      → Virtualization, Docker, Container Orchestration
 
 ---
 
@@ -198,4 +196,4 @@ class ThanigaivelV:
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling)" width="100%"/>
