@@ -7,14 +7,12 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-<pre>
-<b>class ThanigaivelV:</b>
+<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+
+```python
+class ThanigaivelV:
     name       = "Thanigaivel V"
     location   = "6/16 Chetpet, Chennai - 31, Tamil Nadu 🇮🇳"
     degree     = "B.Tech – IT @ Anna University (2023–Present)"
@@ -39,20 +37,8 @@
 
     fun_fact = "I compared VMs vs Containers early on 🐳"
 
-    <b>def motto(self):</b>
+    def motto(self):
         return "Learn. Build. Adapt. Repeat. 🚀"
-</pre>
-    </td>
-    <td width="38%" valign="middle" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding GIF"/>
-    </td>
-  </tr>
-</table>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
